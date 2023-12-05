@@ -93,8 +93,8 @@ Not Covered in Warranty
 
 **Looking to Order?** 
 
-- <https://facebook.com/>
-- <https://twitter.com/>
+- <https://amazon.com/>
+- <https://ebay.com/>
 
 ## Usage
 
