@@ -98,7 +98,6 @@ Not Covered in Warranty
 
 - <https://facebook.com/agv>
 - <https://twitter.com/agv>
-- <https://github.com/agvusa>
 
 ## Usage
 
