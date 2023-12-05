@@ -96,8 +96,8 @@ Not Covered in Warranty
 
 **Looking to Order?** 
 
-- <https://facebook.com/agv>
-- <https://twitter.com/agv>
+- <https://facebook.com/>
+- <https://twitter.com/>
 
 ## Usage
 
