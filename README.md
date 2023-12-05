@@ -1,7 +1,4 @@
 ![AGV](Image.jpg)
-# AGV
-## Allied Green Venture
-
 
 **Note:** 
 
