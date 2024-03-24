@@ -1,6 +1,8 @@
 ![AGV](Image.jpg)
 
-**Note:** 
+## About Us
+With the sole ini+a+ve of Make in India we at AGV manufacture high quality products without compromising on accuracy, performance, durability at cost-effec+ve price to meet daily ends of our customers.
+AGV products are cost effec+ve for our customers, not only at the +me of purchase but on use as well. We firmly believe in conserving electricity, our products are designed in such a way that uses less electricity and are super energy saver. So next +me, you can be at peace when you receive your bill at the end of the month. AGV products are reliable, durable, high- quality, cost effec+ve, super energy saver and made in India only.
 
 ## Notable features
 
