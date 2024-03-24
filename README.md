@@ -1,9 +1,36 @@
 ![AGV](Image.jpg)
 
 ## About Us
-With the sole ini+a+ve of Make in India we at AGV manufacture high quality products without compromising on accuracy, performance, durability at cost-effec+ve price to meet daily ends of our customers.
-AGV products are cost effec+ve for our customers, not only at the +me of purchase but on use as well. We firmly believe in conserving electricity, our products are designed in such a way that uses less electricity and are super energy saver. So next +me, you can be at peace when you receive your bill at the end of the month. AGV products are reliable, durable, high- quality, cost effec+ve, super energy saver and made in India only.
 
+With the sole initiative of Make in India we at AGV manufacture high quality products without compromising on accuracy, performance, durability at cost-effective price to meet daily ends of our customers.
+AGV products are cost effective for our customers, not only at the time of purchase but on use as well. We firmly believe in conserving electricity, our products are designed in such a way that uses less electricity and are super energy saver. So next time, you can be at peace when you receive your bill at the end of the month. AGV products are reliable, durable, high-quality, cost effective, super energy saver and 100% Made in India only.
+
+## BLDC Ceiling Fans
+
+Allied Green Venture has launched energy efficient ceiling fans which are driven on Brushless DC technology. The BLDC technology is emerging today due to it's energy saving factor & great performance which has tremendously contributed in home appliances in present time. AGV's BLDC ceiling fans can substantially reduce the electricity consumption of your home.
+- Energy Efficient
+- More Speed Control
+- Reverse Function
+- Silent Operation
+- Long Life
+- Less Heat Dissipation
+- Suitable to Work @ 160-270 VAC, 50 Hz
+- Rust Proof Full Aluminium Body
+- Dependable High Class Powder Coated
+
+## BLDC Ceiling Fan with Remote Control (IR/RF)
+
+- Power Consumption: 25-30 W
+- Air Delivery
+- Maintenance
+- Speed Control
+- Auto Off Option
+- Per day expenditure for 15Hr a day @7/-per unit : Rs 3.50-4.00
+- Available in 1200 mm sweep IR/RF remotecontrol
+- Double ball bearing
+- Complete aluminium body
+
+  
 ## Notable features
 
 - The most advanced and effieincet product.
