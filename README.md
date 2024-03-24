@@ -1,11 +1,28 @@
 ![AGV](Image.jpg)
 
-## About Us
+##                                                            About Us
 
 With the sole initiative of Make in India we at AGV manufacture high quality products without compromising on accuracy, performance, durability at cost-effective price to meet daily ends of our customers.
 AGV products are cost effective for our customers, not only at the time of purchase but on use as well. We firmly believe in conserving electricity, our products are designed in such a way that uses less electricity and are super energy saver. So next time, you can be at peace when you receive your bill at the end of the month. AGV products are reliable, durable, high-quality, cost effective, super energy saver and 100% Made in India only.
 
-## BLDC Ceiling Fans
+## Product Description
+
+- High-speed Performance
+Offering high air delivery rate of up to 212 CFM, the AGV Ceiling Fan can keep your room cool and breezy at all times. So, you can stay relaxed and comfortable even during the sweltering summers.
+
+- Full Aluminium Body Construction
+Built with high-grade aluminium body and blades, this ceiling fan ensures optimal air delivery and long-term durability.
+
+- Low Power Consumption
+With its power consumption of merely up to 25-30 W, this ceiling fan can save energy and therefore, help in reducing your power bills.
+
+- Double Ball Bearings
+This ceiling fan leverages double ball bearings which minimise friction and load, thereby adding to its long life.
+
+- High-torque Motor
+Powered by a quick-start high-torque motor, this ceiling fan boasts excellent acceleration to provide an enhanced cooling experience.
+
+##                                                        BLDC Ceiling Fans
 
 Allied Green Venture has launched energy efficient ceiling fans which are driven on Brushless DC technology. The BLDC technology is emerging today due to it's energy saving factor & great performance which has tremendously contributed in home appliances in present time. AGV's BLDC ceiling fans can substantially reduce the electricity consumption of your home.
 - Energy Efficient
@@ -21,34 +38,27 @@ Allied Green Venture has launched energy efficient ceiling fans which are driven
 ## BLDC Ceiling Fan with Remote Control (IR/RF)
 
 - Power Consumption: 25-30 W
-- Air Delivery
-- Maintenance
-- Speed Control
-- Auto Off Option
+- Air Delivery: 212 CFM
+- Maintenance: Low
+- Speed Control: More Speed Control
+- Auto Off Option: Timer Based
 - Per day expenditure for 15Hr a day @7/-per unit : Rs 3.50-4.00
 - Available in 1200 mm sweep IR/RF remotecontrol
 - Double ball bearing
 - Complete aluminium body
 
-  
-## Notable features
+## BLDC Ceiling Fan with Regulator
 
-- The most advanced and effieincet product.
-- Avaialbe in 5 attractive color options.
-- Several responsive layout options 
+- Power Consumption: 25-30 W
+- Air Delivery: 212 CFM
+- Maintenance: Low
+- Speed Control: More Speed Control
+- Auto Off Option: Timer Based
+- Per day expenditure for 15Hr a day @7/-per unit : Rs 3.50-4.00
+- Available in 1200 mm sweep IR/RF remotecontrol
+- Double ball bearing
+- Complete aluminium body## Notable features
 
-
-## Demo pages
-
-| Name                                        | Description                                           |
-| ------------------------------------------- | ----------------------------------------------------- |
-| [Post with Header Image][header-image-post] | A post with a large header image. |
-| [HTML Tags and Formatting Post][html-tags-post] | A variety of common markup showing how the theme styles them. |
-| [Syntax Highlighting Post][syntax-post] | Post displaying highlighted code. |
-| [Post with a Gallery][gallery-post] | A post showing several images wrapped in `<figure>` elements. |
-| [Sample Collection Page][sample-collection] | Single page from a collection. |
-| [Categories Archive][categories-archive] | Posts grouped by category. |
-| [Tags Archive][tags-archive] | Posts grouped by tag. |
 
 ## Product Description
 - High-speed Performance
