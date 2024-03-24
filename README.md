@@ -61,8 +61,8 @@ Allied Green Venture has launched energy efficient ceiling fans which are driven
 - Double ball bearing
 - Complete aluminium body
 
-### Why BLDC Fan?
-
+## Why BLDC Fan?
+![AGV BLDC Adv Circle ](https://github.com/agvusa/agvusa.github.io/assets/152942453/91ee9a9b-70a3-43a3-a8b9-6062aef05cc9)
 
 AGV also manufactures Induction motor ceiling fans. They are low cost, simple and durable. 
 They are able to operate at variable speed with added control.
