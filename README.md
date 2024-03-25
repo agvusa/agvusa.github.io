@@ -84,6 +84,6 @@ Our ceiling fans are available in aluminium body, copper wound duly fitted with 
 - <https://amazon.com/>
 - <https://ebay.com/>
 
-#### Write to us @ alliedgreenventure@gmail.com
+#### Write to us: alliedgreenventure@gmail.com
 
 
